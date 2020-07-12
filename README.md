@@ -8,7 +8,7 @@
   - Connect With Me On [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
   - Shoot Me an [Email](shepard.garrison.t@gmail.com)
 
-![Alt Text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nyinst.com%2Fwp-content%2Fuploads%2F2019%2F03%2F15.03Go-programming.gif&imgrefurl=https%3A%2F%2Fwww.nyinst.com%2Fblog%2F2019%2F03%2F18%2Fget-knowing-about-nyinst-go-programming-language-course%2F&tbnid=w6uDOA3y81W_NM&vet=12ahUKEwiMmpGHsMjqAhWLGt8KHc7SDXcQMygAegUIARDNAQ..i&docid=mrvD8daw-3x1hM&w=780&h=350&q=golang%20gif&ved=2ahUKEwiMmpGHsMjqAhWLGt8KHc7SDXcQMygAegUIARDNAQ)
+![Alt Text](https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif)
 
 <!--
 **gtshepard/gtshepard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
