@@ -2,10 +2,10 @@
 - Im Garrison
 
 ## 👨‍💻 About Me 
-  - Bacholers in Computer Science from CUNY Hunter College 🎓🧪💻 
+  - Bacholers in Computer Science from CUNY Hunter College 🎓
   - Interested in Systems Programming ☢️  
   - Searching For Full Time Software Engineering Positions 🔭 
-## Programming Languages  
+## Programming Languages 💻 
 - Golang ![alt text](https://github.com/egonelbre/gophers/blob/master/icon/icons.svg)
 - Python ![alt text](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png)
  
