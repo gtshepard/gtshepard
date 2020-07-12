@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 📫 How to reach me: ...
-
+  - building a library for the Paxos Protcol In GoLang For Fun!
 - 💬 Ask me about ...
+  - 
+- 📫 How to reach me: ...
+  - Connect With Me On [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
+  - Shoot Me an [Email](shepard.garrison.t@gmail.com)
+
+
 
 <!--
 **gtshepard/gtshepard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
