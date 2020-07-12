@@ -1,14 +1,14 @@
-# Hi there 👋 Im Garrison!
-
+# Hi there 👋 from 🇺🇸
+- Im Garrison
 
 ## 👨‍💻 About Me 
-  - Bacholers in Computer Science from CUNY Hunter College 🧪💻 
-  - Love Pyhton and Golang
-  - Interested in Systems Programming 
-  - Searching For Full Time Software Engineering Positions 
-
+  - Bacholers in Computer Science from CUNY Hunter College 🎓🧪💻 
+  - Python and GoLang ![alt text](https://github.com/egonelbre/gophers/blob/master/icon/icons.svg)
+  - Interested in Systems Programming ☢️  
+  - Searching For Full Time Software Engineering Positions 🔭 
+  
 ## 🚀 I’m currently working on ...
-  - Building a library for the Paxos Protcol In GoLang For Fun!
+  - Building a Library for the Paxos protcol in GoLang For Fun!
  
 ## 📫 How to reach me: ...
   - Connect With Me On [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
