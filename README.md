@@ -1,14 +1,14 @@
 ### Hi there 👋
  Im Garrison!
  
-About Me 
- 
-
-🔭 I’m currently working on ...
-  - Building a library for the Paxos Protcol In GoLang For Fun!
+👨‍💻 About Me 
+  - Bacholers in Computer Science from CUNY Hunter College 🧪💻 
+  - love Pyhton and Golang
+  - Interested in Systems Programming 
   - Searching For Full Time Software Engineering Positions 
 
-💬 Ask me about ... 
+🚀 I’m currently working on ...
+  - Building a library for the Paxos Protcol In GoLang For Fun!
  
 📫 How to reach me: ...
   - Connect With Me On [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
