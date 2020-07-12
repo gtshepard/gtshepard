@@ -1,9 +1,12 @@
 ### Hi there 👋
+ Im Garrison!
+ 
+About Me 
  
 
 🔭 I’m currently working on ...
-  - building a library for the Paxos Protcol In GoLang For Fun!
-  - Searching For a Full time Software Engineer Positions 
+  - Building a library for the Paxos Protcol In GoLang For Fun!
+  - Searching For Full Time Software Engineering Positions 
 
 💬 Ask me about ... 
  
