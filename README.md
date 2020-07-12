@@ -9,6 +9,7 @@
   - Shoot Me an [Email](shepard.garrison.t@gmail.com)
 
 ![Alt Text](https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif)
+![Alt Text](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 <!--
 **gtshepard/gtshepard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
