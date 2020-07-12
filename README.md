@@ -6,8 +6,8 @@
   - Interested in Systems Programming ☢️  
   - Searching For Full Time Software Engineering Positions 🔭 
 ## Programming Languages  
- Golang ![alt text](https://github.com/egonelbre/gophers/blob/master/icon/icons.svg)
- python ![alt text](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png)
+- Golang ![alt text](https://github.com/egonelbre/gophers/blob/master/icon/icons.svg)
+- Python ![alt text](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png)
  
 ## 🚀 I’m currently working on ...
   - Building a Library for the Paxos protcol in GoLang For Fun!
