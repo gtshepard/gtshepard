@@ -3,10 +3,12 @@
 
 ## 👨‍💻 About Me 
   - Bacholers in Computer Science from CUNY Hunter College 🎓🧪💻 
-  - Python and GoLang ![alt text](https://github.com/egonelbre/gophers/blob/master/icon/icons.svg)
   - Interested in Systems Programming ☢️  
   - Searching For Full Time Software Engineering Positions 🔭 
-  
+## Programming Languages  
+ Golang ![alt text](https://github.com/egonelbre/gophers/blob/master/icon/icons.svg)
+ python ![alt text](https://www.iconarchive.com/show/plex-icons-by-cornmanthe3rd/Other-python-icon.html)
+ 
 ## 🚀 I’m currently working on ...
   - Building a Library for the Paxos protcol in GoLang For Fun!
  
