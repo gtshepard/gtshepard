@@ -1,4 +1,4 @@
-# Hi there 👋 from 🇺🇸
+# Hi There 👋 from 🇺🇸
 - My Name is Garrison; Welcome! 
 
 ## 👨‍💻 About Me 
