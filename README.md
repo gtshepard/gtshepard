@@ -1,9 +1,9 @@
-# Hi there 👋
- Im Garrison!
- 
+# Hi there 👋 Im Garrison!
+
+
 ## 👨‍💻 About Me 
   - Bacholers in Computer Science from CUNY Hunter College 🧪💻 
-  - love Pyhton and Golang
+  - Love Pyhton and Golang
   - Interested in Systems Programming 
   - Searching For Full Time Software Engineering Positions 
 
