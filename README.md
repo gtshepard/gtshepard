@@ -10,7 +10,7 @@
 - Python ![alt text](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png)
  
 ## 🚀 I’m currently working on ...
-  - Building a Library for the Paxos protcol in GoLang For Fun!
+  - Building a Library for the [Paxos Protcol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) in GoLang For Fun!
  
 ## 📫 How to reach me: ...
   - Connect With Me On [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
