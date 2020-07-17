@@ -1,5 +1,5 @@
 # Hi There 👋 From 🇺🇸
-- My Name is Garrison; Welcome! 
+- My name is Garrison; Welcome! 
 
 ## 👨‍💻 About Me 
   - Bacholers in Computer Science from CUNY Hunter College 🎓
