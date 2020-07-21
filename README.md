@@ -2,7 +2,7 @@
 - My name is Garrison; Welcome! 
 
 ## 👨‍💻 About Me 
-  - Bacholers in Computer Science from CUNY Hunter College 🎓 as of Jan 2020
+  - Bacholers in Computer Science from CUNY Hunter College (Jan 2020) 🎓 
   - Interested in Systems Programming ☢️  
   - Searching For Full Time Software Engineering Positions 🔭 
   
