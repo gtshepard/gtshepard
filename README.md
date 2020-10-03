@@ -12,7 +12,7 @@
  
 ## 🚀 I’m currently working on ...
 
-  - Currently during some volunteer work with Enviromental Defense Fund via Develop For Good to build an Eviromental Hazard Reporting Application with a focus on Air Quality
+  - Currently during some probono work with Enviromental Defense Fund via Develop For Good to build an Eviromental Hazard Reporting Application with a focus on Air Quality
   
   - [Enviromental Defense Fund](https://www.edf.org/)
   - [Develop For Good](https://www.developforgood.org/)
