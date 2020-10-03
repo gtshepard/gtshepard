@@ -11,7 +11,11 @@
 - Python ![alt text](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png)
  
 ## 🚀 I’m currently working on ...
-  - Building a Library for the [Paxos Protocol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) in GoLang For Fun!
+
+  - Currently during some volunteer work with Enviromental Defense Fund via Develop For Good to build an Eviromental Hazard Reporting Application with a focus on Air Quality
+  
+  - [Enviromental Defense Fund](https://www.edf.org/)
+  - [Develop For Good](https://www.developforgood.org/)
  
 ## 📫 How to reach me: ...
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
