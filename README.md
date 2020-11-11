@@ -21,6 +21,6 @@
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/gtshepard/) 
   - Shoot me an [Email](shepard.garrison.t@gmail.com)
 
-![Alt Text](https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif)
-![Alt Text](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![Alt Text](https://dcwmedia.com/wp-content/uploads/2017/02/Hunter-College-CUNY-300x83.jpg)
+![Python](https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif)
+![GoLang](https://kevalpatel2106.files.wordpress.com/2017/01/go_lang_mascot_by_kirael_art-d7kunhu.gif?w=500&h=500&crop=1)
+![Hunter](https://dcwmedia.com/wp-content/uploads/2017/02/Hunter-College-CUNY-300x83.jpg)
