@@ -3,8 +3,6 @@
 
 ## 👨‍💻 About Me 
   - Bacholers in Computer Science from CUNY Hunter College (Jan 2020) 🎓 
-  - Interested in Systems Programming ☢️  
-  - Searching For Full Time Software Engineering Positions 🔭 
   
 ## Programming Languages 💻 
 - Golang ![alt text](https://gist.github.com/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/e96188dae6a84223fef3ff4e834d79f75680a094/gopher-workout.gif)
